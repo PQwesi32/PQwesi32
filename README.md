@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gideon Debrah
 - 👀 I’m interested in Cybersecurity & Coding
-- 🌱 I’m currently learning Coding with Reskill Americans
+- 🌱 I will be joining codePath to study Cybersecurity in the Spring 2022
 - 💞️ I’m looking to collaborate on various coding experiences
 - 📫 How to reach me gideon.debrah@stu.bcc.cuny.edu
 
